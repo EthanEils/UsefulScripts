@@ -363,8 +363,8 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Storage folder for generated files and other artifacts.
-Storage/*
-!Storage/.gitkeep
+_Storage/*
+!_Storage/.gitkeep
 
 **/*.csv
 **/*.xlsx
